@@ -1,0 +1,2 @@
+1. Opendaylight Controller is used - Implementation of SDN in JAVA. Bundles are added to the OSGi platform. Network simulation is done with tools such as Mininet. Flows are sent through REST and also using the bundles on OSGi. 
+2. SDN Programming iin pyretic
